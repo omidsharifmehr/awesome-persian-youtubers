@@ -88,5 +88,11 @@
     "description": "ویدئوهایی در مورد آموزش برنامه‌نویسی گو توسط فرود غفوری",
     "website": "",
     "channel": "https://www.youtube.com/channel/UCdtGLDEOsnWlW1IsQFbCAsA"
+  },
+  {
+    "channelName": "FaranLearn",
+    "description": "ویدئوهایی در مورد برنامه نویسی اندروید",
+    "website": "FaranLearn.com",
+    "channel": "https://www.youtube.com/channel/UCqfadSN5QCPwSPRXcC8uN6w"
   }
 ]
